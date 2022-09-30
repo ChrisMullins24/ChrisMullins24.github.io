@@ -9,3 +9,4 @@ the use of analytics alone, but providing an eye test with analytics in order to
 This study used draft class from 2007 to 2018, which was the last year before Coronavirus (COVID-19) struck NCAA basketball as well, the NBA. Consistent with this dataset, these drafted college basketball players range from one-and-done to four-year players. 
 
 
+[Link](http://127.0.0.1:5098/)
